@@ -56,6 +56,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Here is the link to the rails back end:
+
+[Hello-Rails-Back-End](https://github.com/Uthmanbello/hello-rails-back-end)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -164,6 +168,6 @@ I would like to thank my learning partners who helped throughout the process.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Uthmanbello/hello-react-front-end/blob/setup-react/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
