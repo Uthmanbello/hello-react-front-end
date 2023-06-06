@@ -1,4 +1,58 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <br/>
+
+  <h3><b>Hello-React-Front-End</b></h3>
+
+</div>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+  - [Key Features](#key-features)
+  - [💻 Presentation](#presentation)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello-React-Front-End] <a name="about-project"></a>
+
+**[Hello-React-Front-End]** is a project that uses a React/Redux to fetch data from a Rails API and display greetings in different languages at random.
+
+## 🛠 Built With <a name="built-with"></a>
+-HTML
+-JavaScript
+-ReactJS
+-Redux
+
+### Key Features <a name="key-features"></a>
+
+- **[The project was built using ES6]**
+- **[Modules were imported/exported for the JavaScript]**
+- **[Webpack bundling was used]**
+- **[ReactJS environment was employed]**
+- **[Redux toolkit was employed]**
+- **[Rails API was consumed]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +122,48 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Author <a name="authors"></a>
+
+👤 **Uthman Igein Bello-Imoukhuede**
+
+- GitHub: [Uthmanbello](https://github.com/Uthmanbello)
+- Twitter: [@UthmanDeRoyale](https://twitter.com/UthmanDeRoyale)
+- LinkedIn: [Uthman Igein Bello-Imoukhuede](linkedin.com/in/uthman-igein-bello-imoukhuede)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+🔭 Future Feature
+- **[Addition of more pages]**
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Uthmanbello/hello-react-front-end/issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a like if you like this project and kindly follow us using our social media handles
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my learning partners who helped throughout the process.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
